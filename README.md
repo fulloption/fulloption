@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Suthinan (Keng)
-- 👀 I’m interested in Java Application JavaLocal,JEE,Springboot
-- 🌱 I’m currently learning Python,Dotnet Core
+- 👀 I’m interested in Java Application Java Apps,JEE,Springboot
 - 💞️ DB : Oracle , Postgres , MSSql
