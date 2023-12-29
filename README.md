@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Suthinan (Keng)
+- 👋 Hi, I’m Suthinan
 - 👀 I’m interested in Java Application Java Apps,JEE,Springboot
 - 💞️ DB : Oracle , Postgres , MSSql
