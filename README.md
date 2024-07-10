@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Suthinan
-- 👀 I’m interested in Java Application Java Apps,JEE,Springboot
+- 👀 I’m interested in Java,JS,python,c++,arduino,modbus
 - 💞️ DB : Oracle , Postgres , MSSql
