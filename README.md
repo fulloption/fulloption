@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Suthinan
 - 👀 I’m interested in Java , JS , python , c++ , arduino , modbus , BI , RPA
-- 💞️ DB : Oracle , Postgres , MSSql , sqlite
+- 💞️ DB : Oracle , Postgres , MSSql , MySQL , sqlite
