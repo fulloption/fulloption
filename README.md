@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Suthinan
+# Hi there 👋, I'm Suthinan
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in open-source projects and continuous learning. 
+
+## 🚀 About Me
 - 👀 I’m interested in Java , JS , React, python , c++ , arduino , modbus , BI , RPA
 - 💞️ DB : Oracle , Postgres , MSSql , MySQL , sqlite
 
