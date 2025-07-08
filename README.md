@@ -7,7 +7,7 @@
 I'm an IT Specialist passionate about program development and open-source projects. I love to learn new things constantly!
 
 **My Skills & Interests:**
-* **Programming Languages:** Java, JavaScript, React, Python, C++
+* **Programming Languages:** Java, JavaScript, React, Python
 * **Databases:** Oracle, PostgreSQL, MS SQL Server, MySQL, SQLite
 * **Other Technologies:** Arduino, Modbus, Business Intelligence (BI), Robotic Process Automation (RPA)
 
