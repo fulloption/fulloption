@@ -4,12 +4,12 @@
 
 ### 🚀 About Me
 
-ผมเป็น IT Specialist ที่สนใจการพัฒนาโปรแกรมและ Open-source ผมชอบเรียนรู้สิ่งใหม่ๆ ตลอดเวลา
+I'm an IT Specialist passionate about program development and open-source projects. I love to learn new things constantly!
 
-**ทักษะและสิ่งที่สนใจ:**
-* **ภาษาโปรแกรม:** Java, JavaScript, React, Python, C++
-* **ฐานข้อมูล:** Oracle, PostgreSQL, MS SQL Server, MySQL, SQLite
-* **อื่นๆ:** Arduino, Modbus, Business Intelligence (BI), Robotic Process Automation (RPA)
+**My Skills & Interests:**
+* **Programming Languages:** Java, JavaScript, React, Python, C++
+* **Databases:** Oracle, PostgreSQL, MS SQL Server, MySQL, SQLite
+* **Other Technologies:** Arduino, Modbus, Business Intelligence (BI), Robotic Process Automation (RPA)
 
 ---
 
