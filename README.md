@@ -1,16 +1,26 @@
-# Hi there 👋, I'm Suthinan
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in open-source projects and continuous learning. 
+# 👋 Hi there, I'm Suthinan!
 
-## 🚀 About Me
-- 👀 I’m interested in Java , JS , React, python , c++ , arduino , modbus , BI , RPA
-- 💞️ DB : Oracle , Postgres , MSSql , MySQL , sqlite
+---
 
+### 🚀 About Me
 
+ผมเป็น IT Specialist ที่สนใจการพัฒนาโปรแกรมและ Open-source ผมชอบเรียนรู้สิ่งใหม่ๆ ตลอดเวลา
 
-## 📈 Top Languages
+**ทักษะและสิ่งที่สนใจ:**
+* **ภาษาโปรแกรม:** Java, JavaScript, React, Python, C++
+* **ฐานข้อมูล:** Oracle, PostgreSQL, MS SQL Server, MySQL, SQLite
+* **อื่นๆ:** Arduino, Modbus, Business Intelligence (BI), Robotic Process Automation (RPA)
+
+---
+
+### 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fulloption&layout=compact&theme=radical)
 
-## 📫 Connect with Me
+---
+
+### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/suthinan/)
+
+---
